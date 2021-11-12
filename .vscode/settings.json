@@ -15,5 +15,14 @@
   "C_Cpp_Runner.cCompilerPath": "C:\\mingw\\mingw32\\bin\\gcc.exe",
   "C_Cpp_Runner.cppCompilerPath": "C:\\mingw\\mingw32\\bin\\g++.exe",
   "C_Cpp_Runner.debuggerPath": "C:\\mingw\\mingw32\\bin\\gdb.exe",
-  "C_Cpp_Runner.makePath": "C:\\mingw\\mingw32\\bin\\make.exe"
+  "C_Cpp_Runner.makePath": "C:\\mingw\\mingw32\\bin\\make.exe",
+  "python.testing.unittestArgs": [
+    "-v",
+    "-s",
+    "./Re.0",
+    "-p",
+    "*test.py"
+  ],
+  "python.testing.pytestEnabled": false,
+  "python.testing.unittestEnabled": true
 }
