@@ -12,3 +12,6 @@ def converter(phrase):
     return conversion
 
 print(converter(input("Enter your text: \n")))
+
+while True:
+    print(converter(input("Enter your text: \n")))
